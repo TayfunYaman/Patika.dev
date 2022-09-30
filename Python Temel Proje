@@ -1,0 +1,50 @@
+Soru 01
+
+s = [[1,'a',['cat'],2],[[[3]],'dog'], 4, 5]
+t = []
+
+for i in s :
+    
+    if type(i) == list :
+        for k in i :
+            if type(k) == list :
+                print()
+                for e in k:
+                    if type(e) == list :
+                        print()
+                        
+                        for x in e :
+                            if type(x) == list :
+                                 print()
+                             
+                            else :
+                                t.append(x)       
+                            
+                    else :
+                        t.append(e)
+                        
+                        
+            else :
+                t.append(k)
+
+    else :
+        t.append(i)
+    
+
+print(t)
+
+
+
+
+Soru 02
+
+
+l = [[1, 2], [3, 4], [5, 6, 7]]
+l2 = []
+for i in l :
+    i.reverse()
+    l2.append(i)
+    
+l2.reverse()   
+print(l2)
+    

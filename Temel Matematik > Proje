@@ -1,0 +1,21 @@
+Taban-10 sayı sistemini kullanarak matematiksel işlemler yapmak hepimiz için oldukça alışılmış bir durum. Ancak, bazen farklı sayı sistemleri ile çalışmak gerekebilir. Örneğin, bilgisayarların ve diğer dijital cihazların işlem yapabilmesi için ikili sayı sistemi kullanılır. Bu sebeple, ikili sayı sistemi hakkında biraz daha ayrıntılı bilgi edinmek oldukça faydalı olabilir.
+
+İkili sayı sistemi, yalnızca 0 ve 1 rakamlarını kullanarak sayılar ifade eden bir sayı sistemidir. İkili sayı sisteminde, sağdan sola doğru ilerledikçe her basamak 2 katına çıkar. Örneğin, 10101 sayısı ikili sayı sisteminde aşağıdaki gibi ifade edilir:
+
+1 * 2^4 + 0 * 2^3 + 1 * 2^2 + 0 * 2^1 + 1 * 2^0 = 16 + 0 + 4 + 0 + 1 = 21
+
+İkili sayı sistemi üzerinde yapılan matematiksel işlemler temelde taban-10 sayı sistemine benzer. Ancak, rakamlar yalnızca 0 ve 1 olduğu için işlemler daha basittir. Örneğin, ikili sayı sisteminde toplama işlemi aşağıdaki gibi yapılır:
+
+0 + 0 = 0
+0 + 1 = 1
+1 + 0 = 1
+1 + 1 = 10
+
+Yukarıdaki tabloya bakarak 1 + 1 = 10 olduğunu görebilirsiniz. Bu durum, ikili sayı sisteminde iki sayının toplandığında sonucun iki basamaklı olabileceği anlamına gelir. Bir üst basamağa taşınan 1, 10'un sol tarafında yer alır ve sonuç olarak 0'a eklenebilir.
+
+İkili sayı sistemi, sadece bilgisayarlar ve dijital cihazlar tarafından kullanılmakla kalmaz, aynı zamanda kriptografi gibi diğer matematiksel alanlarda da önemlidir. Örneğin, RSA şifreleme algoritması, ikili sayılar üzerinde işlem yaparak güvenli mesajlaşma sağlar.
+
+Sonuç olarak, ikili sayı sistemi yalnızca 0 ve 1 rakamlarını kullanarak sayıları ifade eder ve matematiksel işlemler yapar. İkili sayı sistemini anlamak, dijital dünyayla daha iyi bir anlayış ve kriptografi gibi diğer matematiksel alanlarda daha fazla bilgi edinmenize yardımcı olabilir.
+
+
+
